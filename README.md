@@ -1,4 +1,4 @@
-# A place to collect interesting resources, projects and experiments on cybersecurity.
+# A place to collect my experiments and projects on cybersecurity.
 
 Traffic-captures
 
