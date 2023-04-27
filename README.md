@@ -6,6 +6,4 @@
 
 ## Smart Homes Risk Assessment
 
-Generic Risk Assessment study for an average smart home using OCTAVE Allegro Framework.
-
-[Presentation](https://www.figma.com/file/7ptj11h4FOhSlNiF5BOum9/RAP?node-id=4%3A117&t=CFam3K8fxabgd2cd-1)
+Generic Risk Assessment study for an average smart home using OCTAVE Allegro Framework. [Presentation](https://www.figma.com/file/7ptj11h4FOhSlNiF5BOum9/RAP?node-id=4%3A117&t=CFam3K8fxabgd2cd-1)
